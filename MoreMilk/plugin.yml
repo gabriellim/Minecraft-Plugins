@@ -1,0 +1,13 @@
+name: MoreMilk
+author: RNAi
+main: io.github.gabriellim.moremilk.MoreMilk
+version: 1.0.0
+description: Now you can get milk from 6 more animals: chicken, horse, ocelot, pig, sheep and wolf
+
+permissions:
+  moremilk.toggle:
+    description: Enable player to milk from all 6 animals: chicken, horse, ocelot, pig, sheep and wolf
+    default: true
+  moremilk.message:
+    description: Sends message to player if player successfully milks one of the 6 animals
+    default: true
