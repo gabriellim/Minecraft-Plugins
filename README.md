@@ -3,6 +3,13 @@ Minecraft-Plugins
 
 For Bukkit Dev http://dev.bukkit.org/profiles/RNAi/bukkit-plugins/
 
+[**SmeltCraft**]() 
+
+* TBD
+
+[**Salvage**]() 
+
+* TBD
 
 [**MoreMilk**](https://github.com/gabriellim/Minecraft-Plugins/tree/master/MoreMilk)
   
@@ -11,3 +18,4 @@ For Bukkit Dev http://dev.bukkit.org/profiles/RNAi/bukkit-plugins/
 [**NoVillagerTrade**](https://github.com/gabriellim/Minecraft-Plugins/tree/master/NoVillagerTrade)
 
 * Prevents players from trading with villagers.
+
