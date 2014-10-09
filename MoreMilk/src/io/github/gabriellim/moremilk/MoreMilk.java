@@ -26,7 +26,7 @@ public class MoreMilk extends JavaPlugin implements Listener
 	Logger Log = getLogger();
 	
 	@EventHandler
-	public void playerInteraction (PlayerInteractEntityEvent event)
+	public void playerInteractEntity (PlayerInteractEntityEvent event)
 	{
 		Player P = event.getPlayer();
 		Entity RC = event.getRightClicked();
