@@ -1,0 +1,10 @@
+name: NoVillagerTrade
+author: RNAi
+main: io.github.gabriellim.novillagertrade.NoVillagerTrade
+version: 1.0.0
+description: Prevents players from trading with villagers
+
+permissions:
+  novillagertrade.toggle:
+    description: Enable/disable the plugin. Enabled by default.
+    default: true
