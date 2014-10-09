@@ -26,12 +26,11 @@ public class MoreMilk extends JavaPlugin implements Listener
 	Logger Log = getLogger();
 	
 	@EventHandler
-	public void playerInteractEntity (PlayerInteractEntityEvent event)
+	public void playerInteractEntity(PlayerInteractEntityEvent event)
 	{
 		Player P = event.getPlayer();
 		Entity RC = event.getRightClicked();
 		ItemStack ItemInHand = P.getItemInHand();
-		
 		
 		if (P.hasPermission("moremilk.toggle") && ItemInHand.getType().equals(Material.BUCKET))
 		{
