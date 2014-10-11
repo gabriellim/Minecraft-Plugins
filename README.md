@@ -1,7 +1,7 @@
 Minecraft-Plugins
 =================
 
-For Bukkit Dev http://dev.bukkit.org/profiles/RNAi/bukkit-plugins/
+Hosted by Bukkit Dev http://dev.bukkit.org/profiles/RNAi/bukkit-plugins/
 * These Minecraft plugin allows administrators to modify their server to add more game content and features!
 
 -----------------------------------------------
