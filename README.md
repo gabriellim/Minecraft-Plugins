@@ -2,7 +2,9 @@ Minecraft-Plugins
 =================
 
 For Bukkit Dev http://dev.bukkit.org/profiles/RNAi/bukkit-plugins/
-* These Minecraft plugins allows administrators to modify their server to add more game content and features!
+* These Minecraft plugin allows administrators to modify their server to add more game content and features!
+
+-----------------------------------------------
 
 [**SmeltCraft**]() | Published: [Yes](http://dev.bukkit.org/bukkit-plugins/smeltcraft/)
 
