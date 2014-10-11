@@ -18,4 +18,4 @@ Hosted by Bukkit Dev http://dev.bukkit.org/profiles/RNAi/bukkit-plugins/
 
 [**MoreMilk**](https://github.com/gabriellim/Minecraft-Plugins/tree/master/MoreMilk) | Published: [Yes](http://dev.bukkit.org/bukkit-plugins/moremilk/)
   
-* Allows players to gather milk from 6 more animals: chicken, horse, ocelot, pig, sheep and wolf.
+* Allows players to gather milk from 6 more animals: chicken, horse, ocelot, pig, sheep and wolf. All you need is an empty bucket!
