@@ -8,7 +8,7 @@ Hosted by Bukkit Dev https://dev.bukkit.org/members/RNAi/projects
 
 **SmeltCraft** | Published: [Yes](http://dev.bukkit.org/bukkit-plugins/smeltcraft/)
 
-* SmeltCraft gives more smelting mechanics using Golden Tools and more crafting mechanics via custom recipes for materials, food, tools and armor.
+* SmeltCraft gives more smelting mechanics using Golden Tools. It also gives the user more crafting mechanics by using custom recipes for materials, food, tools and armor.
 
 **Salvage** | Published: [Yes](http://dev.bukkit.org/bukkit-plugins/salvage/)
 
